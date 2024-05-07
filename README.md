@@ -8,7 +8,7 @@ Welcome to my Nuxt.js project! This project is built using Nuxt.js, a framework 
 
 Before getting started, ensure you have the following installed on your machine:
 
-- Node.js (version >= 12.x)
+- Node.js (version >= 16.x)
 - npm or yarn
 
 ## Getting Started
